@@ -5,7 +5,7 @@ Benard Kiprotich Bett
 This is an application that allow users to signup,sign in and post their favourite photos. The users is given a suggestion list of other users that they may follow in order to see their their posts and photos too. A user can like or comment on any photo that he or she wish to.
 ## Project Set up Instructions
 * Ctrl + alt + t to open the terminal
-* now git clone https://github.com/FITSTARGILLY2643/Instagram
+* now git clone https://github.com/ObadiaH123/instagram.git
 * cd to Gallery
 * you can use code . or atom . to open it.
 
