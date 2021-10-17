@@ -1,6 +1,6 @@
 #  Instagram
 ## Author
-Gilbert Kiprotich Mutai
+Benard Kiprotich Bett
 ## Description
 This is an application that allow users to signup,sign in and post their favourite photos. The users is given a suggestion list of other users that they may follow in order to see their their posts and photos too. A user can like or comment on any photo that he or she wish to.
 ## Project Set up Instructions
