@@ -18,7 +18,7 @@ This is an application that allow users to signup,sign in and post their favouri
 ## Support and contact details
 Reach me on: +254 702637380 or kiprotichbernard780@gmail.com
 ## Live Link
-https://fits-instagram.herokuapp.com/
+
 
 ### MIT License
 
