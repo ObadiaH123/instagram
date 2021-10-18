@@ -2,7 +2,11 @@
 ## Author
 Benard Kiprotich Bett
 ## Description
-This is an application that allow users to signup,sign in and post their favourite photos. The users is given a suggestion list of other users that they may follow in order to see their their posts and photos too. A user can like or comment on any photo that he or she wish to.
+This is an instagram clone where users can: As a user of the web application you will be able to:
+
+create and update their profile
+Post a picture and add a caption
+follow and unfollow someone
 ## Project Set up Instructions
 * Ctrl + alt + t to open the terminal
 * now git clone https://github.com/ObadiaH123/instagram.git
