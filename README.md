@@ -8,10 +8,10 @@ Benard Kiprotich Bett
     Post a picture and add a caption
     follow and unfollow someone
 ## Project Set up Instructions
-* Ctrl + alt + t to open the terminal
-* now git clone https://github.com/ObadiaH123/instagram.git
-* cd to Gallery
-* you can use code . or atom . to open it.
+    * Ctrl + alt + t to open the terminal
+    * now git clone https://github.com/ObadiaH123/instagram.git
+    * cd to Gallery
+    * you can use code . or atom . to open it.
 
 ## Technologies Used
     * Python-Django - Used django as a framework.
