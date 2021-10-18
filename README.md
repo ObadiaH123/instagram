@@ -16,7 +16,7 @@ This is an application that allow users to signup,sign in and post their favouri
 * Heroku- To host the application
 * Github- To host the source code and the live link
 ## Support and contact details
-Reach me on: +254 702 637380 or kiprotichbernard780@gmail.com
+Reach me on: +254 702 637 380 or kiprotichbernard780@gmail.com
 ## Live Link
 
 
