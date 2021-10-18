@@ -1,5 +1,5 @@
-    # My Instagram
-    ## Author
+# My Instagram
+## Author
     Benard Kiprotich Bett
 ## Description
     This is an instagram clone where users can: As a user of the web application you will be able to:
