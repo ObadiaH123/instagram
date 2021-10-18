@@ -14,11 +14,11 @@ Benard Kiprotich Bett
 * you can use code . or atom . to open it.
 
 ## Technologies Used
-* Python-Django - Used django as a framework.
-* HTML5- To display the content
-* CSS- Cascading styles for styling the html
-* Heroku- To host the application
-* Github- To host the source code and the live link
+    * Python-Django - Used django as a framework.
+    * HTML5- To display the content
+    * CSS- Cascading styles for styling the html
+    * Heroku- To host the application
+    * Github- To host the source code and the live link
 ## Support and contact details
     Reach me on: +254 702 637 380 
     Email: kiprotichbernard780@gmail.com
