@@ -2,11 +2,11 @@
 ## Author
 Benard Kiprotich Bett
 ## Description
-This is an instagram clone where users can: As a user of the web application you will be able to:
+    This is an instagram clone where users can: As a user of the web application you will be able to:
 
-create and update their profile
-Post a picture and add a caption
-follow and unfollow someone
+    create and update their profile
+    Post a picture and add a caption
+    follow and unfollow someone
 ## Project Set up Instructions
 * Ctrl + alt + t to open the terminal
 * now git clone https://github.com/ObadiaH123/instagram.git
