@@ -1,4 +1,4 @@
-#  Instagram
+# My Instagram
 ## Author
 Benard Kiprotich Bett
 ## Description
